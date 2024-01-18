@@ -35,6 +35,12 @@ input json data
 
 <img width="1098" alt="image" src="https://github.com/ronething-bot/feishu-flow/assets/47621124/a623efb4-4c07-4cfa-bd19-62dcf653a57f">
 
+## config github repo webhook settings
+
+<img width="1160" alt="image" src="https://github.com/ronething-bot/feishu-flow/assets/47621124/f4cf8ea1-62e6-4fb4-8e82-3e15ee8b7233">
+
+Add webhook, choose content-type as application/json, and then select `Pull Requests` event.
+
 ## demo
 
 <img width="539" alt="image" src="https://github.com/ronething-bot/feishu-flow/assets/47621124/494e4326-7370-4500-aa78-1bd431ff2653">
